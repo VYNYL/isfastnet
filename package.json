@@ -1,6 +1,6 @@
 {
   "name": "isfastnet",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "Tiny script that tells you if the user's internet is fast",
   "exports": "./isfastnet.js",
   "engines": {
